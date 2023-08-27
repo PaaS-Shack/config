@@ -1,3 +1,3 @@
 module.exports = {
-    api: require('./services/api.service'),
+    config: require('./services/config.service'),
 }
